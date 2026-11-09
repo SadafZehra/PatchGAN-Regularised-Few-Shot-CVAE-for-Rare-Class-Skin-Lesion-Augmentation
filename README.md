@@ -1,7 +1,6 @@
 # Few-Shot Medical Image Synthesis for Rare Skin-Lesion Classes
 ### Does adversarial and perceptual supervision make few-shot generated images more useful than a plain VAE?
 
-**Notebook:** `Few_Shot_Medical_Image_Synthesis.ipynb` (Google Colab, T4 GPU, about 60 to 80 minutes)
 **Data:** HAM10000 dermatoscopic images (research use only, not for clinical use)
 
 ---
